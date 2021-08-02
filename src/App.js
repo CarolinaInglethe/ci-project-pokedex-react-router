@@ -3,12 +3,16 @@ import './App.css';
 // import pokemons from './data';
 // import Pokedex from './components/Pokedex';
 import HomePokedex from './components/HomePokedex'
-import { BrowserRouter, Route } from 'react-router-dom'
+import { BrowserRouter, Route, Switch, Link } from 'react-router-dom'
 
 function App() {
   return (
     <BrowserRouter>
-      <Route path="/" component={ HomePokedex } />
+      <Link to="/">home</Link>
+      <Link to="/pokemondetails"> More Info </Link>
+      
+      <Route  path="/" component={ HomePokedex } />
+      
     </BrowserRouter>
   );
 }
