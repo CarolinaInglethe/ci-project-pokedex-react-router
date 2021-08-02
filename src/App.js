@@ -8,9 +8,9 @@ import { BrowserRouter, Route, Switch, Link } from 'react-router-dom'
 function App() {
   return (
     <BrowserRouter>
-      <Link to="/">home</Link>
-      <Link to="/pokemondetails"> More Info </Link>
-      
+      <Link to="/"  className="links-route">home</Link>
+      <Link to="/pokemondetails" className="links-route"> More Info </Link>
+
       <Route  path="/" component={ HomePokedex } />
       
     </BrowserRouter>
