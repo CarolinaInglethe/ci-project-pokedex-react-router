@@ -1,4 +1,5 @@
 .pokemon {
+  background-color: rgba(144, 21, 21, 0.794);
   display: flex;
   align-items: center;
   justify-content: space-around;
