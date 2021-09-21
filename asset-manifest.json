@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ci-project-pokedex-react-router/static/css/main.4f3f0241.chunk.css",
+    "main.js": "/ci-project-pokedex-react-router/static/js/main.11ea2434.chunk.js",
+    "main.js.map": "/ci-project-pokedex-react-router/static/js/main.11ea2434.chunk.js.map",
+    "runtime-main.js": "/ci-project-pokedex-react-router/static/js/runtime-main.49476ed5.js",
+    "runtime-main.js.map": "/ci-project-pokedex-react-router/static/js/runtime-main.49476ed5.js.map",
+    "static/js/2.e3bf3614.chunk.js": "/ci-project-pokedex-react-router/static/js/2.e3bf3614.chunk.js",
+    "static/js/2.e3bf3614.chunk.js.map": "/ci-project-pokedex-react-router/static/js/2.e3bf3614.chunk.js.map",
+    "index.html": "/ci-project-pokedex-react-router/index.html",
+    "precache-manifest.2c2cc8ee662ba6c9103289f1a37fe5d2.js": "/ci-project-pokedex-react-router/precache-manifest.2c2cc8ee662ba6c9103289f1a37fe5d2.js",
+    "service-worker.js": "/ci-project-pokedex-react-router/service-worker.js",
+    "static/css/main.4f3f0241.chunk.css.map": "/ci-project-pokedex-react-router/static/css/main.4f3f0241.chunk.css.map",
+    "static/js/2.e3bf3614.chunk.js.LICENSE.txt": "/ci-project-pokedex-react-router/static/js/2.e3bf3614.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49476ed5.js",
+    "static/js/2.e3bf3614.chunk.js",
+    "static/css/main.4f3f0241.chunk.css",
+    "static/js/main.11ea2434.chunk.js"
+  ]
+}
