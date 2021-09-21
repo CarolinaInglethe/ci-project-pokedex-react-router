@@ -1,46 +1,5 @@
 Esse é um projeto para o conteúdo de `React Router Dom`.
 
-### Antes de iniciar
-
-Crie um fork desse projeto e para isso siga esse [tutorial de como realizar um fork](https://guides.github.com/activities/forking/).
-
-Após feito o fork, clone o repositório criado para o seu computador.
-
-Rode o `npm install`.
-
-Vá para a branch master do seu projeto e execute o comando:
-
-git branch
-
-Mude para a branch pokedex-router com o comando git checkout -b pokedex-router. É nessa branch que você realizará a solução para o exercício.
-
-Observe o que deve ser feito nas instruções.
-
-Após a solução dos exercícios, abra um PR no seu repositório forkado e, se quiser, mergeie para a master, sinta-se a vontade!
-
-**Atenção!** Quando for criar o PR você irá se deparar com essa tela:
-
-![PR do exercício](images/example-pr.png)
-
-É necessário realizar uma mudança. Clique no *base repository* como na imagem abaixo:
-
-![Mudando a base do repositório](images/change-base.png)
-
-Mude para o seu repositório. Seu nome estará na frente do nome dele, por exemplo: `antonio/pokedex-router`. Depois desse passo a página deve ficar assim:
-
-![Após mudança](images/after-change.png)
-
-Agora basta criar o PULL REQUEST clicando no botão `Create Pull Request`.
-
-Para cada PR realize esse processo.
-
-### COMEÇANDO OS EXERCÍCIOS
-
-Hoje você vai incrementar a sua Pokedex utilizando Router. Caso você queira reutilizar a sua Pokedex de exercícios anteriores, basta substituir a pasta src desse repositório pela src da sua pokedex já pronta, após seguir os passos de `Antes de iniciar`.
-
-Se você não tiver feito, sem problemas, aqui você ja vai encontrar o comportamento esperado da sua Pokedex após os últimos exercícios.
-
-Nesse repositório ja foi instalado o `react-router-dom`, só é necessário executar `npm install` uma vez dentro da pasta raiz para utilizá-lo.
 
 #### Exercício 1
 
@@ -98,3 +57,7 @@ Crie uma visualização que mostre somente os pokémons favoritados e torne-a ac
 #### Exercício 10
 
 Salve os pokémons favoritados no local storage e recupere-os quando a aplicação for inicializada.
+
+
+
+LINK PROJETO : https://carolinainglethe.github.io/ci-project-pokedex-react-router/
