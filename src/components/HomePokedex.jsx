@@ -7,7 +7,7 @@ class HomePokedex extends React.Component {
   render() {
     return (
         <div className="App">
-        <h1> Pokedex </h1>
+        <h1 className="title-pokedex"> Pokedex </h1>
         <Pokedex pokemons={pokemons} />
       </div>
     )
