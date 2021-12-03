@@ -1,6 +1,8 @@
 Esse é um projeto para o conteúdo de `React Router Dom`.
 
 
+LINK PROJETO : https://carolinainglethe.github.io/ci-project-pokedex-react-router/
+
 #### Exercício 1
 
 Ao carregar a aplicação no caminho de _URL_ "/", é preciso que seja mostrada a Pokédex.
@@ -60,4 +62,4 @@ Salve os pokémons favoritados no local storage e recupere-os quando a aplicaç�
 
 
 
-LINK PROJETO : https://carolinainglethe.github.io/ci-project-pokedex-react-router/
+
