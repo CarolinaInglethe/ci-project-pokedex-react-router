@@ -3,7 +3,7 @@ import './App.css';
 // import pokemons from './data';
 // import Pokedex from './components/Pokedex';
 import HomePokedex from './components/HomePokedex'
-import { BrowserRouter, Route, Switch, Link } from 'react-router-dom'
+import { BrowserRouter, Route, Link } from 'react-router-dom'
 
 function App() {
   return (
